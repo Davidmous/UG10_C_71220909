@@ -10,13 +10,13 @@ if Menu=="1" :
     Tambah=a+b
     print("Hasil",Tambah)
 elif Menu=="2" :
-    Tambah=a-b
+    Kurang=a-b
     print("Hasil",Kurang)
 elif Menu=="3" :
-    Tambah=a*b
+    Kali=a*b
     print("Hasil",Kali)
 elif Menu=="4" :
-    Tambah=a//b
+    Bagi=a//b
     print("Hasil",Bagi)
 
 
